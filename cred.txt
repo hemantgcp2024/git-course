@@ -1,2 +1,0 @@
-username=hemant
-password=asd@123
